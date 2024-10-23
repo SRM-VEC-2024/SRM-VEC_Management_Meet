@@ -596,7 +596,7 @@ a:focus {
 .sticky-button {
     position: fixed;
     right: 0px;
-    top: 50%;
+    top: 75%;
     transform: translateY(-50%);
     background-color: #ff2953;
     color: white;
@@ -616,7 +616,7 @@ a:focus {
   justify-content: center;
   position: fixed;
   right: 0px;
-  top: 56%;
+  top: 81%;
   transform: translateY(-50%);
   background-color: #04f338;
   width: 9.6rem !important; 
@@ -637,7 +637,7 @@ a:focus {
   justify-content: center;
   position: fixed;
   right: 0px;
-  top: 62%;
+  top: 87%;
   transform: translateY(-50%);
   background-color: #1900ff;
   width: 9.6rem !important; 
