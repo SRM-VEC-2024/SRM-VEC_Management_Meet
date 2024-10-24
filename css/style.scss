@@ -37,7 +37,7 @@ body {
 .sticky-button {
   position: fixed;
   right: 0px;
-  top: 50%;
+  top: 62%;
   transform: translateY(-50%);
   background-color: #ff2953;
   color: white;
@@ -129,7 +129,7 @@ body {
   height: 100vh;
   display: flex;
   flex-direction: column;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/SRM\ VEC.jpg);
+  /* background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/SRM\ VEC.jpg); */
   background-size: cover;
   background-attachment: fixed;
 }
