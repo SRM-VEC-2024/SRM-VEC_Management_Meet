@@ -596,7 +596,7 @@ a:focus {
 .sticky-button {
     position: fixed;
     right: 0px;
-    top: 75%;
+    top: 77%;
     transform: translateY(-50%);
     background-color: #ff2953;
     color: white;
