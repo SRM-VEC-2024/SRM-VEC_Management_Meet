@@ -64,7 +64,7 @@ html {
 }
 
 /*header section*/
-
+/*
 .back-video{
   position: absolute;
   right: 0;
@@ -82,7 +82,7 @@ html {
     width: auto;
     height: 100%;
   }
-}
+} */
 .hero_area {
   height: 100vh;
   display: -webkit-box;
